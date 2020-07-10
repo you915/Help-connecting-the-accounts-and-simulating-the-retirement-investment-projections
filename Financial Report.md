@@ -20,26 +20,26 @@ In this section, you will compile a financial report to demo your calculations t
 
 The total expenses were $31,935.72; the most expenses were on the transfers ($20537.34) while the least expenses were on travel ($35.19)
 
-![Expenses](Images/expenses-per-category.jpg)
+![Expenses](Images/expenses-per-category.JPG)
 
-![Expenses](Images/expenses-per-category-pie.jpg)
+![Expenses](Images/expenses-per-category-pie.JPG)
 
 ## Bar chart - The number of Transactions were made per category
 
 The total of 48 transactions were made; the highest number of transactions were on Food and Drink (15 transactions) and the lowest number of transactions were on Recreation and shops (3 transactions each)
 
-![Expenses](Images/Transactions-per-category-table.jpg)
+![Expenses](Images/Transactions-per-category-table.JPG)
 
-![Expenses](Images/transactions-per-category.jpg)
+![Expenses](Images/transactions-per-category.JPG)
 
 
 ## Expenses per month with Bar graph
 
 The same amount of money was spent in April, May, and June - $10,624.24/month in April, May, and June
 
-![Expenses](Images/monthly-spending.jpg)
+![Expenses](Images/monthly-spending.JPG)
 
-![Expenses](Images/monthly-spending-bar.jpg)
+![Expenses](Images/monthly-spending-bar.JPG)
 
 # 2. **Retirement Planning:** 
 # Summarize the retirement portfolio analysis and include the charts for the Monte Carlo simulation.
@@ -47,11 +47,11 @@ The same amount of money was spent in April, May, and June - $10,624.24/month in
 
 ## Monte Carlo Simulation of 500 runs and 30 years for the 60/40 portfolio
 
-![Monte_carlo](Images/monte-carlo-graph.jpg)
+![Monte_carlo](Images/monte-carlo-graph.JPG)
 
 ## Monte Carlo Simulation - 90% Confidence Interval
 
-![Monte_carlo](Images/monte-carlo-bar-graph.jpg)
+![Monte_carlo](Images/monte-carlo-bar-graph.JPG)
 
 
 ## Retirement Analysis
@@ -60,13 +60,13 @@ The same amount of money was spent in April, May, and June - $10,624.24/month in
 
 Expected cumulative returns at 30 years:
 
-![cumulative returns](Images/expected-cumulative-returns.jpg)
+![cumulative returns](Images/expected-cumulative-returns.JPG)
 
 ### 2. Given an initial investment of `$20,000`, what is the expected return in dollars at the `10th`, `50th`, and `90th` percentiles?
 
 Expected return at 10th, 50th and 90th percentiles with $20,000 initial investment:
 
-![cumulative returns](Images/expected-cumulative-returns-20000.jpg)
+![cumulative returns](Images/expected-cumulative-returns-20000.JPG)
 
 ### 3. Given the current projected annual income from the Plaid analysis, will a `4%` withdrawal rate meet or exceed that value at the `10th` percentile? Note: This is basically determining if retirement income is equivalent to current income.
 
@@ -88,7 +88,7 @@ Expected return at 10th, 50th and 90th percentiles with $20,000 initial investme
 ## Use the Monte Carlo data and calculate the cumulative returns at the `5%`, `50%`, and `95%` quartiles and plot this data as a line chart to see how the cumulative returns change over the life of the investment.
 ### This plot shows the expected cumulative returns for any given day between the first day and the last day of investment. 
 
-![Cumulative returns](Images/optional.jpg)
+![Cumulative returns](Images/optional.JPG)
 
 # Optional Challenge #2
 ## Early Retirement - How to retire in 5 years instead of 30 years?
@@ -97,11 +97,11 @@ Expected return at 10th, 50th and 90th percentiles with $20,000 initial investme
 
 ## Monte Carlo Simulation of 500 runs and 30 years for the 90/10 portfolio
 
-![Monte_carlo](Images/monte-carlo-graph-5-years.jpg)
+![Monte_carlo](Images/monte-carlo-graph-5-years.JPG)
 
 ## Monte Carlo Simulation - 90% Confidence Interval
 
-![Monte_carlo](Images/monte-carlo-bar-graph-5-years.jpg)
+![Monte_carlo](Images/monte-carlo-bar-graph-5-years.JPG)
 
 ## Retirement Analysis - How to retire in 5 years instead of 30 years?
 
@@ -109,13 +109,13 @@ Expected return at 10th, 50th and 90th percentiles with $20,000 initial investme
 
 Expected cumulative returns at 5 years:
 
-![cumulative returns](Images/expected-cumulative-returns-5-years.jpg)
+![cumulative returns](Images/expected-cumulative-returns-5-years.JPG)
 
 ### 2. Given an initial investment of `$80,000`, what is the expected return in dollars at the `10th`, `50th`, and `90th` percentiles?
 
 Expected return at 10th, 50th and 90th percentiles with $80,000 initial investment:
 
-![cumulative returns](Images/expected-cumulative-returns-80000.jpg)
+![cumulative returns](Images/expected-cumulative-returns-80000.JPG)
 
 ### 3. Given the current projected annual income from the Plaid analysis, will a `4%` withdrawal rate meet or exceed that value at the `10th` percentile? Note: This is basically determining if retirement income is equivalent to current income.
 
