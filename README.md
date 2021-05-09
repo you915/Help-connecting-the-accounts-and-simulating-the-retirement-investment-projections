@@ -1,4 +1,4 @@
-# Unit 5 — How do you like them apps?
+# Retirement Investment Projections
 
 ![Financial Planner](Images/financial-planner.png)
 
@@ -6,7 +6,7 @@
 
 The Consumer Division of Harold's company has decided to offer budgeting and financial planning services to customers. They want to build a report for customers that links to their banking and investment accounts and automatically refreshes the data and charts upon login. However, some of the calculations are tricky, and Harold could use some help connecting the accounts and simulating the retirement investment projections. Luckily, there are APIs available to obtain account transactions and fetch retirement portfolio prices.
 
-In this homework assignment, you will help Harold complete the following tasks:
+Project Target:
 
 1. [Budget Analysis with Plaid](#Budget-Analysis)
 
@@ -23,8 +23,6 @@ In this homework assignment, you will help Harold complete the following tasks:
 * [Retirement Planner Starter Notebook](Starter_Code/portfolio_planner.ipynb)
 
 ---
-
-## Instructions
 
 ### Budget Analysis
 
@@ -104,7 +102,7 @@ In this section, you will compile a financial report to demo your calculations t
 
 2. **Retirement Planning:** Summarize the retirement portfolio analysis and include the charts for the Monte Carlo simulation.
 
-### Optional Challenge — Early Retirement - Up to 10 bonus points
+### Optional Challenge — Early Retirement
 
 Harold is impressed with your work on this planner, but thinks that `30` years seems like a very long time to wait to retire! Harold wants to know if the retirement plan could be adjusted to retire earlier than normal. Try adjusting the portfolio to either include more risk (a higher stock than bond ratio), or to have a larger initial investment and then rerun the retirement analysis to see what it would take to retire in `5` years, instead of `30`!
 
@@ -120,20 +118,5 @@ Harold is impressed with your work on this planner, but thinks that `30` years s
 
 ---
 
-### Hints and Considerations
-
-* For the Monte Carlo simulation, start out by running `100` simulations for one year of returns, and when you have the code worked out, run the simulation at `100–500` simulations for `30` years (this takes a long time).
-
----
-
-### Submission
-
-* Create Jupyter Notebooks for the analysis and planner and host the notebooks on GitHub.
-
-* Include a Markdown Financial Planner report that summarizes your assumptions and findings and include this report in your GitHub repo.
-
-* Submit the link to your GitHub project to Bootcampspot.
-
----
 
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
